@@ -1,3 +1,8 @@
+# This is the basic version
+This version includes:
+- Basic server website server hosting
+- Template html, css and js files
+
 # Local-Host-Website
 
 This repository lets you quickly run a website directly from your own computer using Node.js.
